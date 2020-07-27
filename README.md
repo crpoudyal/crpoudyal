@@ -16,22 +16,9 @@
   <img align="left" alt="rjpoudyal Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
+<br>
+<br>
 
-
-```
-import 'package:flutter/material.dart';
-void main() => runApp(MaterialApp(
-      title: "Introduction",
-      theme: ThemeData(
-      primarySwatch: Colors.blue,
-      ),
-      home:center(
-      child:Text("Hello,Welcome to My GitHub profile"),
-       ),
-     ),
-   );
-
-```
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
