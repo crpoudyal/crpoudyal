@@ -36,6 +36,6 @@
 
 **Visitors Count**
 
-![VisitorCount](https://profile-counter.glitch.me/{aju100}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{crpoudyal}/count.svg)
 
 ## Thanks For taking interest in my profile
