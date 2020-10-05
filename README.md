@@ -33,4 +33,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=crpoudyal&show_icons=true&theme=light&line_height=27" alt="CR Poudyal Github stats"/>
 </a>
 
+
+**Visitors Count**
+
+![VisitorCount](https://profile-counter.glitch.me/{aju100}/count.svg)
+
 ## Thanks For taking interest in my profile
