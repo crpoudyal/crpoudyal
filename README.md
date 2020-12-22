@@ -2,21 +2,6 @@
 
 ## Looking Forward to contribute in OperSource Projects
 
-<a href="https://twitter.com/poudyal_RJ">
-  <img align="left" alt="RJ Poudyal Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/chudaraj-poudyal/">
-  <img align="left" alt="Chudaraj Poudyal Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/crpoudyal">
-  <img align="left" alt="crpoudyal Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/rj_poudyal/">
-  <img align="left" alt="Rj Poudyal Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/rjpoudyal">
-  <img align="left" alt="rjpoudyal Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 
 <br>
 <br>
