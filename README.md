@@ -1,6 +1,6 @@
 ### Hi , I am CR Poudyal 👋
 
-## Looking Forward to contribute in OperSource Projects
+## Looking Forward to contribute in OpenSource Projects
 
 
 <br>
