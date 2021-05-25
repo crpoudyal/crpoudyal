@@ -17,6 +17,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=crpoudyal&show_icons=true&theme=dark&line_height=20" alt="CR Poudyal Github stats"/>
 </a>
 
+<br/><br/>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=crpoudyal)  
 
