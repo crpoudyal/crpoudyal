@@ -19,11 +19,12 @@
 </a>
 <a href="https://github.com/crpoudyal">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=crpoudyal&show_icons=true&theme=dark&line_height=20" alt="CR Poudyal Github stats"/>
-</a>
-
+</a><br/><br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crpoudyal&theme=dark" alt="crpoudyal" /></p>
 <br/><br/>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=crpoudyal)  
+
 
 <p align="left"> <a href="https://twitter.com/poudyal_rj" target="blank"><img src="https://img.shields.io/twitter/follow/poudyal_rj?logo=twitter&style=for-the-badge" alt="poudyal_rj" /></a> </p>
 
