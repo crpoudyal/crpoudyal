@@ -26,6 +26,6 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=crpoudyal)  
 
 
-<p align="left"> <a href="https://twitter.com/poudyal_rj" target="blank"><img src="https://img.shields.io/twitter/follow/poudyal_rj?logo=twitter&style=for-the-badge" alt="poudyal_rj" /></a> </p>
+
 
 ## Thanks For taking interest in my profile
