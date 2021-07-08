@@ -23,7 +23,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crpoudyal&theme=dark" alt="crpoudyal" /></p>
 <br/><br/>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=crpoudyal)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=crpoudyal&bg_color=0000000&color=00eeff&line=00ccff&point=ff0088&area=true&hide_border=true)  
 
 
 
