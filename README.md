@@ -25,6 +25,3 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=crpoudyal&bg_color=0000000&color=00eeff&line=00ccff&point=ff0088&area=true&hide_border=true)  
 
-
-
-Thanks for taking interest in my profile
