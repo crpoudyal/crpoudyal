@@ -17,8 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crpoudyal&layout=compact&theme=dark" />
 </a>
 <a href="https://github.com/crpoudyal">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=crpoudyal&show_icons=true&theme=dark&line_height=20" alt="CR Poudyal Github stats"/>
-</a><br/><br/>
+ <br/><br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crpoudyal&theme=dark" alt="crpoudyal" /></p>
 <br/><br/>
 
