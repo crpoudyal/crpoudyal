@@ -17,8 +17,8 @@
   <img width="400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crpoudyal&layout=compact&theme=dark" />
 </a>
 <a href="https://github.com/crpoudyal">
- <br/><br/>
-<p><img width="550" height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crpoudyal&theme=dark" alt="crpoudyal" /></p>
+ 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crpoudyal&theme=dark" alt="crpoudyal" /></p>
 <br/><br/>
 
 
