@@ -22,8 +22,11 @@
 ![Dart](https://img.shields.io/badge/-Dart-black?style=for-the-badge&logo=Dart&logoColor=0079BF)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=Flutter&logoColor=0079BF)
 ![Trello](https://img.shields.io/badge/-Trello-black?style=for-the-badge&logo=Trello&logoColor=0079BF)
+![Slack](https://img.shields.io/badge/-Slack-black?style=for-the-badge&logo=Slack)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=FCC624)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=Firebase&logoColor=FCC624)
+
+
 
 
 
