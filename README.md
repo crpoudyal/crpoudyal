@@ -1,9 +1,7 @@
 ### Hi , I am CR Poudyal 👋
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> A little more about me... 
-
 <h4>
-- I love Web and Mobile App Development <br/><br/>
+- I love Mobile App Development and Web <br/><br/>
 - Information Technology Student at Tribhuvan University<br/><br/>
 - Working with 
   
@@ -38,12 +36,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crpoudyal&theme=dracula&hide_border=true&include_all_commits=true&count_private=false" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crpoudyal&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html&layout=compact&langs_count=8&theme=dracula"/>
 </p>
-
 <p>
   
   <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crpoudyal&theme=dracula" alt="crpoudyal"/>
  
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=crpoudyal&color=red)
+![Profile Views](https://komarev.com/ghpvc/?username=crpoudyal&color=blue)
 
