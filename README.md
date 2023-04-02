@@ -1,9 +1,9 @@
-### Hi , I am CR Poudyal 👋
+<h4 align="center">Hi , I am CR Poudyal 👋</h4>
 
-<h4>
-- I love Mobile App Development and Web <br/><br/>
-- Information Technology Student at Tribhuvan University<br/><br/>
-- Working with 
+<h4 align="center">
+I love Mobile App Development and Web <br/><br/>
+Information Technology Student at Tribhuvan University<br/><br/>
+working with <br/><br/>
   
   ![Dart](https://img.shields.io/badge/-Dart-black?style=for-the-badge&logo=Dart&logoColor=0079BF)
   ![Flutter](https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=Flutter&logoColor=0079BF)
@@ -33,8 +33,8 @@
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crpoudyal&theme=dracula&hide_border=true&include_all_commits=true&count_private=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crpoudyal&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=crpoudyal&theme=dracula&hide_border=true&include_all_commits=true&count_private=false" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crpoudyal&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 <p>
   
