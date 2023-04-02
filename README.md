@@ -38,8 +38,10 @@
 </p>
 <p>
   
-  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crpoudyal&theme=dracula" alt="crpoudyal"/>
- 
+  
+  [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=crpoudyal&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/crpoudyal)
+
+   
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=crpoudyal&color=blue)
