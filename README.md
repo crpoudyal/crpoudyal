@@ -9,7 +9,7 @@ working with <br/><br/>
   ![Flutter](https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=Flutter&logoColor=0079BF)
 </h4>
 <br/>
-<h3> 🛠️ Stuffs I use (Languages,Tools and Others):</h3>
+<h3> 🛠️ Stuff I use (Languages, Tools and Others):</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
