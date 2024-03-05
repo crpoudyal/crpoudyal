@@ -7,6 +7,8 @@ working with <br/><br/>
   
   ![Dart](https://img.shields.io/badge/-Dart-black?style=for-the-badge&logo=Dart&logoColor=0079BF)
   ![Flutter](https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=Flutter&logoColor=0079BF)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+
 </h4>
 <br/>
 <h3> 🛠️ Stuff I use (Languages, Tools and Others):</h3>
