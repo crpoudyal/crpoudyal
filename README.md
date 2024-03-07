@@ -38,13 +38,7 @@ working with <br/><br/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=crpoudyal&theme=dracula&hide_border=true&include_all_commits=true&count_private=false" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crpoudyal&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html&layout=compact&langs_count=8&theme=dracula"/>
 </p>
-<p>
-  
-  
-  [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=crpoudyal&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/crpoudyal)
 
-   
-</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=crpoudyal&color=blue)
 
